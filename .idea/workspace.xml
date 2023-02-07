@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72041c5c-43b2-4b05-bc0a-da17ccf84081" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/buyfirst/buyfirst/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/buyfirst/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/buyfirst/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/buyfirst/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/media/shop/images/Biman_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/media/shop/images/bz2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/media/shop/images/cloath_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/media/shop/images/dell_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/media/shop/images/lp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/media/shop/images/lp7_kkaaSue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/media/shop/images/mb4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/media/shop/images/mb5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/media/shop/images/mb8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/media/shop/images/shoe_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/media/shop/images/shoe_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/media/shop/images/shoe_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/media/shop/images/shoe_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/media/shop/images/shoe_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/media/shop/images/shoe_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/media/shop/images/watch_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/migrations/0002_auto_20191031_2056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/migrations/0003_orders_transactionid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/static/shop/Buyfirst.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/static/shop/Buyfirst11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/static/shop/Buyfirst6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/static/shop/Buyfirst7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/static/shop/buyfirst10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/static/shop/cart1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/static/shop/sale1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/static/shop/sale2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/static/shop/sale3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/templates/shop/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/templates/shop/basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/templates/shop/checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/templates/shop/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/templates/shop/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/templates/shop/prodView.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/templates/shop/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/templates/shop/tracker.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buyfirst/shop/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buyfirst/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/buyfirst/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buyfirst/shop/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/buyfirst/shop/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buyfirst/shop/templates/shop/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/buyfirst/shop/templates/shop/basic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buyfirst/shop/templates/shop/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/buyfirst/shop/templates/shop/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buyfirst/shop/templates/shop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/buyfirst/shop/templates/shop/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buyfirst/shop/templates/shop/prodView.html" beforeDir="false" afterPath="$PROJECT_DIR$/buyfirst/shop/templates/shop/prodView.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buyfirst/shop/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/buyfirst/shop/views.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/buyfirst/shop/templates/shop/prodView.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/buyfirst/shop/templates/shop/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2737">
+              <caret line="161" column="37" selection-start-line="161" selection-start-column="31" selection-end-line="161" selection-end-column="37" />
+              <folding>
+                <element signature="e#3747#3768#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/buyfirst/shop/templates/shop/checkout.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1309">
+              <caret line="77" column="22" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/buyfirst/shop/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1445">
+              <caret line="91" column="58" selection-start-line="91" selection-start-column="51" selection-end-line="91" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/buyfirst/shop/templates/shop/basic.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="106" column="53" selection-start-line="106" selection-start-column="53" selection-end-line="106" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/buyfirst/shop/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="43" column="17" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>data</find>
+      <find>plus</find>
+      <find>updateCart</find>
+      <find>qtyFrm</find>
+      <find>.data(</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/buyfirst" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/buyfirst/shop/templates/index.html" />
+        <option value="$PROJECT_DIR$/buyfirst/shop/admin.py" />
+        <option value="$PROJECT_DIR$/buyfirst/shop/urls.py" />
+        <option value="$PROJECT_DIR$/buyfirst/buyfirst/urls.py" />
+        <option value="$PROJECT_DIR$/buyfirst/shop/templates/shop/about.html" />
+        <option value="$PROJECT_DIR$/buyfirst/shop/templates/shop/contact.html" />
+        <option value="$PROJECT_DIR$/buyfirst/shop/templates/shop/tracker.html" />
+        <option value="$PROJECT_DIR$/buyfirst/shop/templates/shop/search.html" />
+        <option value="$PROJECT_DIR$/buyfirst/buyfirst/settings.py" />
+        <option value="$PROJECT_DIR$/buyfirst/shop/static/shop/base.css" />
+        <option value="$PROJECT_DIR$/buyfirst/shop/static/shop/font-awesome.css" />
+        <option value="$PROJECT_DIR$/buyfirst/shop/models.py" />
+        <option value="$PROJECT_DIR$/buyfirst/shop/views.py" />
+        <option value="$PROJECT_DIR$/buyfirst/shop/templates/shop/index.html" />
+        <option value="$PROJECT_DIR$/buyfirst/shop/templates/shop/prodView.html" />
+        <option value="$PROJECT_DIR$/buyfirst/shop/templates/shop/checkout.html" />
+        <option value="$PROJECT_DIR$/buyfirst/shop/templates/shop/basic.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="790" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BuyFirst latest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BuyFirst latest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BuyFirst latest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BuyFirst latest" type="462c0819:PsiDirectoryNode" />
+              <item name="buyfirst" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BuyFirst latest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BuyFirst latest" type="462c0819:PsiDirectoryNode" />
+              <item name="buyfirst" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BuyFirst latest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BuyFirst latest" type="462c0819:PsiDirectoryNode" />
+              <item name="buyfirst" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BuyFirst latest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BuyFirst latest" type="462c0819:PsiDirectoryNode" />
+              <item name="buyfirst" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BuyFirst latest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\VIDEOS\tutorial\Web\Python-Django\Project\BuyFirst\buyfirst\shop\templates\shop" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72041c5c-43b2-4b05-bc0a-da17ccf84081" name="Default Changelist" comment="" />
+      <created>1572342427180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572342427180</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="846" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19088507" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="DB Browser" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32867134" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4993395" visible="true" weight="0.21398601" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5006605" side_tool="true" weight="0.33146852" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/buyfirst/shop/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buyfirst/shop/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buyfirst/buyfirst/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#632#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buyfirst/shop/templates/shop/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buyfirst/shop/templates/shop/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buyfirst/shop/templates/shop/tracker.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="14" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buyfirst/shop/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buyfirst/shop/templates/shop/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="181" selection-start-line="181" selection-end-line="181" />
+          <folding>
+            <element signature="e#1639#1660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buyfirst/shop/static/shop/font-awesome.css" />
+    <entry file="file://$PROJECT_DIR$/buyfirst/buyfirst/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buyfirst/shop/static/shop/base.css" />
+    <entry file="file://$PROJECT_DIR$/buyfirst/shop/templates/shop/prodView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buyfirst/shop/templates/shop/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2737">
+          <caret line="161" column="37" selection-start-line="161" selection-start-column="31" selection-end-line="161" selection-end-column="37" />
+          <folding>
+            <element signature="e#3747#3768#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buyfirst/shop/templates/shop/checkout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="22" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buyfirst/shop/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="91" column="58" selection-start-line="91" selection-start-column="51" selection-end-line="91" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buyfirst/shop/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buyfirst/shop/templates/shop/basic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="106" column="53" selection-start-line="106" selection-start-column="53" selection-end-line="106" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
